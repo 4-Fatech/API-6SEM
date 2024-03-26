@@ -1,3 +1,6 @@
 [submodule "API-6Semestre-front"]
 	path = API-6Semestre-front
 	url = https://github.com/4-Fatech/API-6Semestre-front
+[submodule "monitoringAI"]
+	path = monitoringAI
+	url = https://github.com/4-Fatech/monitoringAI
