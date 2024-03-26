@@ -4,3 +4,6 @@
 [submodule "monitoringAI"]
 	path = monitoringAI
 	url = https://github.com/4-Fatech/monitoringAI
+[submodule "API-6SEM-Back"]
+	path = API-6SEM-Back
+	url = https://github.com/4-Fatech/API-6SEM-Back
