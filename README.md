@@ -58,6 +58,7 @@ Monitoramento automático por imagem de acesso a área restrita
 <!-- <img src="docs/imagens/METODOLOGIA.png" > -->
 
 ## 🗒️ Backlog Priorizado
+![Backlog](https://github.com/4-Fatech/API-6SEM/assets/89146258/0c2c079e-a147-4b10-9ca3-b08a74393dd1)
 
 <!-- <img src="docs/imagens/BACKLOG.png"> -->
 
