@@ -107,7 +107,7 @@ Monitoramento automático por imagem de acesso a área restrita
 
 - Mockups
 
-- Dados
+- Dados ( Caso seja necessário )
 
 
 </br>
