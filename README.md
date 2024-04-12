@@ -43,7 +43,7 @@ Monitoramento automático por imagem de acesso a área restrita
 
 ## 📅 Cronograma das Sprints
 
-- [X] <a href="">**1° Sprint:**</a> 25/03/2024 a 14/04/2024<br>
+- [X] <a href="https://github.com/4-Fatech/API-6SEM-Docs/tree/main/Sprint%201">**1° Sprint:**</a> 25/03/2024 a 14/04/2024<br>
 - [ ] <a href="">**2° Sprint:**</a> 15/04/2024 a 05/05/2024
 - [ ] <a href="">**3° Sprint:**</a> 06/05/2024 a 26/05/2024
 - [ ] <a href="">**4°Sprint:**</a> 27/06/2024 a 16/06/2024
