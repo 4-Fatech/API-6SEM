@@ -38,12 +38,12 @@ Monitoramento automático por imagem de acesso a área restrita
 
 - [ ] RNF1 - Manual do Usuário;
 - [ ] RNF2 - Documentação do sistema;
-- [ ] RNF3 - Guia de instalação;
+- [X] RNF3 - Guia de instalação; [Front](https://github.com/4-Fatech/API-6SEM-Front/tree/main?tab=readme-ov-file#-rodando-a-aplica%C3%A7%C3%A3o-web-modo-desenvolvimento) - [Back](https://github.com/4-Fatech/API-6SEM-Back/tree/main?tab=readme-ov-file#-rodando-a-aplica%C3%A7%C3%A3o-web-modo-desenvolvimento) - [IA](https://github.com/4-Fatech/API-6SEM-AI/tree/main?tab=readme-ov-file#-rodando-a-aplica%C3%A7%C3%A3o-modo-desenvolvimento)
 - [ ] RNF4 - Acesso a organização do desenvolvimento (kanban, git...)
 
 ## 📅 Cronograma das Sprints
 
-- [ ] <a href="">**1° Sprint:**</a> 25/03/2024 a 14/04/2024<br>
+- [X] <a href="">**1° Sprint:**</a> 25/03/2024 a 14/04/2024<br>
 - [ ] <a href="">**2° Sprint:**</a> 15/04/2024 a 05/05/2024
 - [ ] <a href="">**3° Sprint:**</a> 06/05/2024 a 26/05/2024
 - [ ] <a href="">**4°Sprint:**</a> 27/06/2024 a 16/06/2024
@@ -101,14 +101,11 @@ Monitoramento automático por imagem de acesso a área restrita
 
 ## 📃 DoR(Definition of Ready):
 
-- User Story
+- [User Stories](https://dev.azure.com/Fatech-Api/Api-6/_workitems/recentlyupdated/)
 
-- Modelo do Banco de Dados
+- [Modelo do Banco de Dados](https://github.com/4-Fatech/API-6SEM-Docs?tab=readme-ov-file#-modelo-entidade-relacionamento)
 
-- Mockups
-
-- Dados ( Caso seja necessário )
-
+- [Mockups](https://github.com/4-Fatech/API-6SEM-Docs?tab=readme-ov-file#-layout---mockups)
 
 </br>
 
