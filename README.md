@@ -77,7 +77,7 @@ Monitoramento automático por imagem de acesso a área restrita
 | 6 | Média | Como gerente geral, quero uma página inicial que me permita acessar facilmente todas os departamentos monitorados, incluindo métricas importantes como capacidade atual e alertas ativos, para facilitar o gerenciamento. | 15 | 2 | RF7 |
 | 7 | Média | Como gerente geral, quero poder criar uma nova redzone no sistema ela tem que estar atrelada ao departamento que sou responsável, fornecendo informações como nome, responsável, câmera e capacidade máxima, para cadastrar as novas redzones.| 15 | 2 | RF6 |
 | 8 | Média | Como gerente geral, quero uma página inicial que me permita acessar facilmente todas as informações como métricas importantes como capacidade atual, alertas ativos e responsável pela redzone, para facilitar o gerenciamento. | 15 | 2 | RF6 |
-| 9| Média |Como gerente, desejo uma ferramenta que permita filtrar (por período desejado) os dados de acesso para comparação, para analisar tendências e identificar variações significativas. | 15 | 3 | RF3 |
+| 9| Média |Como gerente, desejo uma ferramenta que permita filtrar (por período desejado) os dados de acesso para comparação, para analisar tendências e identificar variações significativas. | 15 | 2 | RF3 |
 | 10 | Média | Como gerente geral, quero poder alterar os dados de um determinado departamento no sistema, para poder cadastrar e corrigir dados já existentes. | 10 | 2 | RF7 |
 | 11 | Média | Como gerente geral, quero poder alterar os dados de uma determinada redzone no sistema, para poder cadastrar e corrigir dados já existentes. | 10 | 2 | RF6 |
 | 12 | Média | Como gerente geral, quero poder cadastrar um novo usuário no sistema, fornecendo seu nome, e-mail, matrícula da empresa e tipo de usuário, (guarda, gerente de área), para garantir que a equipe de segurança esteja completa e atualizada. | 10 | 2 | RF5 |
@@ -95,6 +95,8 @@ Monitoramento automático por imagem de acesso a área restrita
 | 24 | Média | Como gerente geral, quero ter todas as funcionalidades e permissões disponíveis para o gerente de área, para ter controle total sobre o sistema e suas operações. | 5 | 3 | RF9 |
 | 25 | Baixa | Como gerente, quero um sistema de login que impeça o acesso as URLs sem autenticação, para proteger minha conta e garantir que apenas usuários autorizados tenham acesso ao sistema. | 5 | 3 |  RF9 |
 | 26 | Baixa |Como gerente, quero poder recuperar minha senha através de um processo seguro e confiável, para caso eu a esqueça no futuro. | 5 | 3 | RF9  |
+| 27 | Alta | Como gerente, quero um manual do usuário detalhado e fácil de entender, que forneça orientações passo a passo sobre como utilizar todas as funcionalidades do sistema, para que eu possa utilizar o sistema de forma eficaz e sem problemas. | 40 | 4 | RNF1 | 
+| 28 | Baixa | Como gerente geral, quero um guia de instalação detalhado e claro, para facilitar a implantação do sistema. | 20 | 4 | RNF3 |  
 
 
 ## 📃 DoR(Definition of Ready):
@@ -105,6 +107,7 @@ Monitoramento automático por imagem de acesso a área restrita
 
 - [Mockups](https://github.com/4-Fatech/API-6SEM-Docs?tab=readme-ov-file#-layout---mockups)
 
+- [Dados](https://github.com/4-Fatech/API-6SEM-Docs?tab=readme-ov-file#-dados)
 </br>
 
 
