@@ -27,9 +27,9 @@ Monitoramento automático por imagem de acesso a área restrita
 - [ ] RF2 - Desenvolver um Dashboard de indicadores por períodos;
 - [ ] RF3 - Filtros de período para análise dos dados;
 - [ ] RF4 - Geração de relatórios para compartilhamento.
-- [ ] RF5 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Usuários.
-- [ ] RF6 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Redzone.
-- [ ] RF7 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Departamento.
+- [X] RF5 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Usuários.
+- [X] RF6 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Redzone.
+- [X] RF7 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Departamento.
 - [x] RF8 - Utilizar a câmera da entrada para contabilizar as pessoas que entraram e saíram da Redzone.
 - [ ] RF9 - Criar três níveis (Usuário de visualização, Gerente Por Departamento e Gerente geral ) de acesso para o projeto.
 
@@ -39,7 +39,7 @@ Monitoramento automático por imagem de acesso a área restrita
 - [ ] RNF1 - Manual do Usuário;
 - [ ] RNF2 - Documentação do sistema;
 - [X] RNF3 - Guia de instalação; [Front](https://github.com/4-Fatech/API-6SEM-Front/tree/main?tab=readme-ov-file#-rodando-a-aplica%C3%A7%C3%A3o-web-modo-desenvolvimento) - [Back](https://github.com/4-Fatech/API-6SEM-Back/tree/main?tab=readme-ov-file#-rodando-a-aplica%C3%A7%C3%A3o-web-modo-desenvolvimento) - [IA](https://github.com/4-Fatech/API-6SEM-AI/tree/main?tab=readme-ov-file#-rodando-a-aplica%C3%A7%C3%A3o-modo-desenvolvimento)
-- [ ] RNF4 - Acesso a organização do desenvolvimento (kanban, git...)
+- [X] RNF4 - Acesso a organização do desenvolvimento (kanban, git...)
 
 ## 📅 Cronograma das Sprints
 
