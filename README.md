@@ -23,15 +23,15 @@ Monitoramento automático por imagem de acesso a área restrita
 
 > Requisitos Funcionais
 
-- [ ] RF1 - Desenvolver uma interface web intuitiva, com autenticação;
+- [X] RF1 - Desenvolver uma interface web intuitiva, com autenticação;
 - [ ] RF2 - Desenvolver um Dashboard de indicadores por períodos;
-- [ ] RF3 - Filtros de período para análise dos dados;
-- [ ] RF4 - Geração de relatórios para compartilhamento.
+- [X] RF3 - Filtros de período para análise dos dados;
+- [X] RF4 - Geração de relatórios para compartilhamento.
 - [X] RF5 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Usuários.
 - [X] RF6 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Redzone.
 - [X] RF7 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Departamento.
 - [x] RF8 - Utilizar a câmera da entrada para contabilizar as pessoas que entraram e saíram da Redzone.
-- [ ] RF9 - Criar três níveis (Usuário de visualização, Gerente Por Departamento e Gerente geral ) de acesso para o projeto.
+- [X] RF9 - Criar três níveis (Usuário de visualização, Gerente Por Departamento e Gerente geral ) de acesso para o projeto.
 
 
 > Requisitos Não Funcionais
@@ -45,7 +45,7 @@ Monitoramento automático por imagem de acesso a área restrita
 
 - [X] <a href="https://github.com/4-Fatech/API-6SEM-Docs/tree/main/Sprint%201">**1° Sprint:**</a> 25/03/2024 a 14/04/2024<br>
 - [X] <a href="https://github.com/4-Fatech/API-6SEM-Docs/tree/main/Sprint%202">**2° Sprint:**</a> 15/04/2024 a 05/05/2024
-- [ ] <a href="">**3° Sprint:**</a> 06/05/2024 a 26/05/2024
+- [x] <a href="https://github.com/4-Fatech/API-6SEM-Docs/tree/main/Sprint%203">**3° Sprint:**</a> 06/05/2024 a 26/05/2024
 - [ ] <a href="">**4°Sprint:**</a> 27/06/2024 a 16/06/2024
 - [ ] **Feira de Soluções:** 27/06/2024
 
@@ -87,13 +87,14 @@ Monitoramento automático por imagem de acesso a área restrita
 | 16 | Média | Como gerente geral, quero poder desativar um determinado departamento, para garantir a segurança e integridade das áreas monitoradas. | 5 | 2 | RF7|
 | 17 | Média | Como gerente geral, quero poder desativar uma determinada redzone, para garantir a segurança e integridade das áreas monitoradas. | 5 | 2 | RF6 |
 | 18 | Média | Como gerente geral, quero poder desativar um usuário, para impedir o acesso quando necessário. | 5 | 2 | RF5 |
-| 19 | Média | Como gerente geral, quero um dashboard que compile e exiba métricas importantes de todos os departamentos, incluindo capacidade atual, número de alertas ativos e média de permanência das pessoas, para facilitar a análise e tomada de decisões estratégicas em relação à segurança e gestão de recursos. | 20 | 3 | RF2 |
-| 20 | Média |Como gerente área, quero um dashboard que compile e exiba métricas importantes de todos as redzones que são do meu departamento, incluindo capacidade atual, número de alertas ativos e média de permanência das pessoas, para facilitar a análise e tomada de decisões estratégicas. | 20 | 3 | RF2 |
-| 21 | Média | Como gerente geral, necessito de uma função de exportação de dados que me permita baixar relatórios de um departamento específico, com informações detalhadas sobre as datas e horários de entrada e saída na redzone durante o período selecionado para realizar análises externas mais detalhadas e precisa |15 | 3 | RF4 |
-| 22 | Média | Como Gerente Geral, quero um login que gerencie o acesso de usuários com diferentes níveis de permissão, incluindo guardas, gerentes de área e outros gerentes gerai, para que cada usuário tenha acesso apenas as partes do sistema relevantes para suas responsabilidades, mantendo assim a segurança e a integridade dos dados da empresa. | 15 | 3 | RF9 |
-| 23 | Baixa |Como gerente, quero poder recuperar minha senha através de um processo seguro e confiável, para caso eu a esqueça no futuro. | 5 | 3 | RF9 |
-| 24 | Alta | Como gerente, quero um manual do usuário detalhado e fácil de entender, que forneça orientações passo a passo sobre como utilizar todas as funcionalidades do sistema, para que eu possa utilizar o sistema de forma eficaz e sem problemas. | 40 | 4 | RNF1 | 
+| 19 | Média | Como gerente geral, necessito de uma função de exportação de dados que me permita baixar relatórios de um departamento específico, com informações detalhadas sobre as datas e horários de entrada e saída na redzones durante o período selecionado para realizar análises externas mais detalhadas e precisa | 20 | 3 | RF4 |
+| 20 | Média | Como Gerente Geral, quero um login que gerencie o acesso de usuários com diferentes níveis de permissão, incluindo guardas, gerentes de área e outros gerentes gerai, para que cada usuário tenha acesso apenas as partes do sistema relevantes para suas responsabilidades, mantendo assim a segurança e a integridade dos dados da empresa. | 20 | 3 | RF9 |
+| 21 | Baixa |Como gerente, quero poder recuperar minha senha através de um processo seguro e confiável, para caso eu a esqueça no futuro. | 10 | 3 | RF9 |
+| 22 | Alta | Como gerente, quero um manual do usuário detalhado e fácil de entender, que forneça orientações passo a passo sobre como utilizar todas as funcionalidades do sistema, para que eu possa utilizar o sistema de forma eficaz e sem problemas. | 40 | 4 | RNF1 | 
+| 23 | Média | Como gerente geral, quero um dashboard que compile e exiba métricas importantes de todos os departamentos, incluindo capacidade atual, número de alertas ativos e média de permanência das pessoas, para facilitar a análise e tomada de decisões estratégicas em relação à segurança e gestão de recursos. | 20 | 4 | RF2 |
+| 24 | Média |Como gerente área, quero um dashboard que compile e exiba métricas importantes de todos as redzones que são do meu departamento, incluindo capacidade atual, número de alertas ativos e média de permanência das pessoas, para facilitar a análise e tomada de decisões estratégicas. | 20 | 4 | RF2 |
 | 25 | Baixa | Como gerente geral, quero um guia de instalação detalhado e claro, para facilitar a implantação do sistema. | 20 | 4 | RNF3 |
+
 
 ## 📃 DoR(Definition of Ready):
 
