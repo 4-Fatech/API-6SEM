@@ -24,7 +24,7 @@ Monitoramento automático por imagem de acesso a área restrita
 > Requisitos Funcionais
 
 - [X] RF1 - Desenvolver uma interface web intuitiva, com autenticação;
-- [ ] RF2 - Desenvolver um Dashboard de indicadores por períodos;
+- [X] RF2 - Desenvolver um Dashboard de indicadores por períodos;
 - [X] RF3 - Filtros de período para análise dos dados;
 - [X] RF4 - Geração de relatórios para compartilhamento.
 - [X] RF5 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Usuários.
@@ -36,8 +36,8 @@ Monitoramento automático por imagem de acesso a área restrita
 
 > Requisitos Não Funcionais
 
-- [ ] RNF1 - Manual do Usuário;
-- [ ] RNF2 - Documentação do sistema;
+- [X] RNF1 - Manual do Usuário;
+- [X] RNF2 - Documentação do sistema;
 - [X] RNF3 - Guia de instalação; [Front](https://github.com/4-Fatech/API-6SEM-Front/tree/main?tab=readme-ov-file#-rodando-a-aplica%C3%A7%C3%A3o-web-modo-desenvolvimento) - [Back](https://github.com/4-Fatech/API-6SEM-Back/tree/main?tab=readme-ov-file#-rodando-a-aplica%C3%A7%C3%A3o-web-modo-desenvolvimento) - [IA](https://github.com/4-Fatech/API-6SEM-AI/tree/main?tab=readme-ov-file#-rodando-a-aplica%C3%A7%C3%A3o-modo-desenvolvimento)
 - [X] RNF4 - Acesso a organização do desenvolvimento (kanban, git...)
 
@@ -46,7 +46,7 @@ Monitoramento automático por imagem de acesso a área restrita
 - [X] <a href="https://github.com/4-Fatech/API-6SEM-Docs/tree/main/Sprint%201">**1° Sprint:**</a> 25/03/2024 a 14/04/2024<br>
 - [X] <a href="https://github.com/4-Fatech/API-6SEM-Docs/tree/main/Sprint%202">**2° Sprint:**</a> 15/04/2024 a 05/05/2024
 - [x] <a href="https://github.com/4-Fatech/API-6SEM-Docs/tree/main/Sprint%203">**3° Sprint:**</a> 06/05/2024 a 26/05/2024
-- [ ] <a href="">**4°Sprint:**</a> 27/06/2024 a 16/06/2024
+- [x] <a href="https://github.com/4-Fatech/API-6SEM-Docs/tree/main/Sprint%204">**4°Sprint:**</a> 27/06/2024 a 16/06/2024
 - [ ] **Feira de Soluções:** 27/06/2024
 
  </br>
